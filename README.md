@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ErinWeed
 - 👀 I’m interested in ...
-- web development, python, ARM
+- web development and python
 - 🌱 I’m currently learning ...
-- javascript basics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- typescript
+
 
 <!---
 ErinWeed/ErinWeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
